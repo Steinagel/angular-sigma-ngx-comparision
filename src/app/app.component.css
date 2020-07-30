@@ -1,0 +1,11 @@
+#sigma-container {
+  background-color: aquamarine;
+
+  position: absolute;
+  width: 50%;
+  height: 50%;
+}
+
+.ngx-graph-container {
+  background-color: aqua;
+}
